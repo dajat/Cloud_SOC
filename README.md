@@ -39,8 +39,9 @@ In the "AFTER" phase, a substantial enhancement in security posture was achieved
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time: 2023-09-26T22:05:53.4115418Z
-Stop Time:  2023-09-27T22:05:53.4115418Z
+
+- Start Time: 2023-09-26T22:05:53.4115418Z
+- Stop Time:  2023-09-27T22:05:53.4115418Z
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -57,8 +58,9 @@ Stop Time:  2023-09-27T22:05:53.4115418Z
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we applied security controls:
-Start Time 2023-10-01T11:53:51.230373Z
-Stop Time	2023-10-02T11:53:51.230373Z
+
+- Start Time 2023-10-01T11:53:51.230373Z
+- Stop Time	2023-10-02T11:53:51.230373Z
 
 | Metric                   | Count
 | ------------------------ | -----
