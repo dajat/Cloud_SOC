@@ -15,7 +15,7 @@ In this project, I established a miniature honeynet infrastructure within the Az
 ![Architecture Diagram](https://imgur.com/ETNP0n5.png)
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://imgur.com/tWN49Z3.png)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
